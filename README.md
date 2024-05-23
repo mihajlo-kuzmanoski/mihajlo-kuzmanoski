@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mihajlo</h1>
-<h3 align="center">A passionate Junior DevOps / Site Reliability Engineer from Krusevo ,Macedonia.</h3>
+<h3 align="center">A passionate  DevOps / Site Reliability Engineer from Krusevo ,Macedonia.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JhNWF0aWRiNWNzcWwwNDB4MnRyanptbmZvendjZXJwMGtnODJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
