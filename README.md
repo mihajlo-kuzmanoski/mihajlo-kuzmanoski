@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihajlo-kuzmanoski&label=Profile%20views&color=0e75b6&style=flat" alt="mihajlo-kuzmanoski" /> </p>
 
-- 🔭 I’m currently working on [LDSK](https://ldsk.io/)
+- 🔭 I’m currently ...searching for new opportunities !
 
 - 🌱 I’m currently in **DevOps World**
 
